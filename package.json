@@ -1,0 +1,30 @@
+{
+  "name": "atestproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhbz/aTestProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkhbz/aTestProject/issues"
+  },
+  "homepage": "https://github.com/mkhbz/aTestProject#readme",
+  "dependencies": {
+    "aexecel": "^1.0.6"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.4.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-html-plugin": "^0.1.1"
+  }
+}
