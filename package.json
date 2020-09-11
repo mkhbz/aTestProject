@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mkhbz/aTestProject#readme",
   "dependencies": {
-    "aexecel": "^1.0.6"
+    "aexecel": "^1.0.29"
   },
   "devDependencies": {
     "html-webpack-plugin": "^4.4.1",
